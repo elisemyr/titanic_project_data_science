@@ -24,4 +24,4 @@ Dataset includes the following columns:
 
 ## Running the files
 ```python3 code2.py```
-```python3 nn.py``
+```python3 nn.py```
